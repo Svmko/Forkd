@@ -5,7 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import {Dropbox} from 'dropbox';
 import Axios from 'axios';
 
-const accessToken = 'sl.Bc328EHd0tRVXN8tm62r5_l-7Iu1fYyqibL6OPY5zlMbospELwWQ7d4h2vgdwY3Crdl-ZCZPu53E7qJNriaTWwaN1i1ZWrIwPVaiVc_ktOeKrtTjF0dEozsbsMjGCQZYlwVm18MUmcTM';
+const accessToken = '';
 
 const dbx = new Dropbox({accessToken: accessToken,});
 
