@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aclonica&display=swap');
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
+
+.forkd {
+  width: auto;
+  height: 100px;
+  float:right;
+  margin-top: 130px;
+}
+
+.sign {
+  float: left;
+  margin-left: 140px;
+  margin-top: 100px;
+}
+
+.login-atr {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.post-atr {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
